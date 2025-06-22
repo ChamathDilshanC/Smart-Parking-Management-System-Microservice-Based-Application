@@ -55,7 +55,6 @@ Monitor service registration and health status:
 ### User Management
 - Customer and parking owner registration
 - User profile management
-- Authentication and authorization
 
 ### Vehicle Management
 - Vehicle registration and tracking
